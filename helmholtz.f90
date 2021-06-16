@@ -22,7 +22,6 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Program: ibm2d_cyl -- SIMPLE + IBM method for incomressible viscous Navier -
 ! Stockes equations in 2D statement for flow past a cylinder
-! Copyright (C): Denis V. Esipov, Grigorii R. Loskutov (2019)
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 module helmholtz
 use types
