@@ -1,8 +1,3 @@
-!******************************************************************************
-!  Program: (B)oundary (E)lements (M)ethod
-!  Module: Lin_solve_lib
-!  Copyright (C): Denis V. Esipov (2009 -- 2010)
-!******************************************************************************
 module Lin_solve_lib
 use RP_lib
 use MatVec_lib
