@@ -10,8 +10,6 @@
 ! the whole problem. Computational domain is rectangle of size lx*ly.
 ! The flow past a cylinder placed at point (lx/3,ly/2) is set up.
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! Copyright (C): Denis V. Esipov (2019)
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 program ibm2d_test
 use types
 use helmholtz
