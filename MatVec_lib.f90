@@ -1,8 +1,4 @@
-!******************************************************************************
-!  Program: (B)oundary (E)lements (M)ethod
-!  Module: MatVec_lib
-!  Copyright (C): Denis V. Esipov (2009 -- 2010)
-!******************************************************************************
+
 module MatVec_lib
 use RP_lib
 implicit none
